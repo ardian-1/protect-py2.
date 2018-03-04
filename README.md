@@ -14,3 +14,4 @@ Kalo sudah ketik = cd protect-py2.
 Thanks To RFU BOT SEKAWAN
 OWNER ARDIAN PURNAMA
 ID LINE [sirichan_1000]
+Oklek
